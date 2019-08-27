@@ -1,5 +1,6 @@
 # To find the number of occurences of substring in main string
 # You will learn the usage of find() function
+# count() function counts the number of occurences of substring
 
 """
 Date : 27-08-2019 written by Manoj Titarmare
